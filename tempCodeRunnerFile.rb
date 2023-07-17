@@ -1,0 +1,1 @@
+p exercise_40('string')
